@@ -1,0 +1,16 @@
+button {
+	margin: 5px;
+}
+
+#buttonArea {
+	background-color: white;
+}
+
+#gifArea {
+	background-color: grey;
+}
+
+.gifDiv {
+	float: left;
+	margin:5px;
+}
